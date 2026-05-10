@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "jk3da_mesh_flow"
+version = "0.1.0"
+name = "JK3DA MeshFlow"
+tagline = "Precision flow tools for mesh edit mode: Circle, Relax, Space, Straighten"
+maintainer = "Jonas Kircher <kontakt@jk3da.com>"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+
+tags = ["Mesh"]
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://jk3da.com"

@@ -1,0 +1,118 @@
+================================================================
+JK3DA Mesh Flow — Commercial Support License
+================================================================
+
+Copyright (C) 2025 JK3DA
+https://jk3da.com
+
+Thank you for supporting JK3DA Mesh Flow.
+
+================================================================
+OVERVIEW
+================================================================
+
+JK3DA Mesh Flow is free and open-source software released
+under the GNU General Public License v3.0 (GPL-3.0).
+
+Under the GPL, all users already receive the right to use,
+modify, and redistribute the software, including commercial use.
+
+This Commercial Support License exists for studios,
+freelancers, and companies who wish to support development
+and maintain formal procurement or production records.
+
+================================================================
+WHAT YOU RECEIVE
+================================================================
+
+By purchasing this support license, you receive:
+
+  - A formal commercial support license document
+  - Written acknowledgment for studio/procurement records
+  - Full source code access under GPL-3.0
+  - Access to updates if and when released
+  - Official packaged releases directly from JK3DA
+
+================================================================
+PERMITTED USE
+================================================================
+
+You may:
+
+  - Use JK3DA Mesh Flow in commercial productions
+  - Use it in freelance and studio pipelines
+  - Use it for games, cinematic assets, and client work
+  - Modify the source code for internal purposes
+  - Redistribute the software under GPL-3.0 terms
+
+================================================================
+ALPHA SOFTWARE NOTICE
+================================================================
+
+JK3DA Mesh Flow is currently under active development.
+
+Some features may be incomplete, unstable, or experimental.
+
+By using this software, you acknowledge that:
+  - tools may change significantly
+  - workflows may be adjusted
+  - bugs and unexpected behavior may occur
+
+================================================================
+GPL NOTICE
+================================================================
+
+JK3DA Mesh Flow remains fully licensed under GPL-3.0.
+
+Nothing in this document restricts the freedoms granted
+by the GPL license.
+
+================================================================
+NO WARRANTY
+================================================================
+
+This software is provided "as is", without warranty of any kind,
+express or implied.
+
+The author shall not be liable for any claim, damages,
+or other liability arising from the use of this software.
+
+================================================================
+SUPPORT
+================================================================
+
+Purchasing this license does not guarantee:
+  - technical support
+  - response times
+  - future updates
+  - feature requests
+
+Optional support and updates may be provided voluntarily.
+
+================================================================
+OFFICIAL WEBSITE
+================================================================
+
+https://jk3da.com
+
+================================================================
+SHOP / SUPPORT DEVELOPMENT
+================================================================
+
+https://jk3da.com/shop
+
+================================================================
+DEVELOPMENT NOTE
+================================================================
+
+This add-on was created by JK3DA with assistance from AI tools
+including Claude (Anthropic) and GitHub Copilot.
+
+All artistic direction, implementation decisions, testing,
+and validation were performed by JK3DA.
+
+================================================================
+FULL GPL LICENSE
+================================================================
+
+https://www.gnu.org/licenses/gpl-3.0.html
